@@ -2,10 +2,11 @@
 
 # 🍳 Recipe Search App
 
-[![React](https://img.shields.io/badge/React-18.0-blue?logo=react)]()
-[![Edamam API](https://img.shields.io/badge/API-Edamam-green)]()
-[![Netlify](https://img.shields.io/badge/Deploy-Netlify-blue?logo=netlify)]()
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]()
+[![React](https://img.shields.io/badge/React-18.0-blue?logo=react)](https://react.dev/)
+[![Edamam API](https://img.shields.io/badge/API-Edamam-green)](https://www.edamam.com/)
+[![Netlify](https://img.shields.io/badge/Deploy-Netlify-blue?logo=netlify)](https://www.netlify.com/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 
 <img src="Recipe search.png" width="800" />
 
