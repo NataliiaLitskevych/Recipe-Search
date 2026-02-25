@@ -43,6 +43,7 @@ function RecipesComponent ({label, image, ingredients, cooked, calories, fat, pr
                             <p className="calories-info">
                                 Total Calories: {calories.toFixed()} calories
                             </p>
+
                         </div>
                     
                     </div> 

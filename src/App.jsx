@@ -42,14 +42,16 @@ function App() {
       </div>
 
       <div className='Container search-area'>
-        <form onSubmit={finalSearch}>
+        <form onSubmit={finalSearch} className="search-form">
           <input type='text' placeholder='Search by ingredients...' className='search' 
           onChange={myRecipeSearch} value={search}/>
+
+          <button className="search-btn">
+            <img src='https://img.icons8.com/fluency/48/000000/fry.png' alt='icon'/>
+          </button>
+
         </form>
       
-        <button onClick={finalSearch} className="search-btn">
-          <img src='https://img.icons8.com/fluency/48/000000/fry.png' alt='icon'/>
-        </button>
       </div>
 
 
