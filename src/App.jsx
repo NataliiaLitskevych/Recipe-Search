@@ -4,8 +4,8 @@ import RecipesComponent from './RecipesComponent';
 
 function App() {
 
-  const MY_ID = "b435b7fe";
-  const MY_KEY = "b8c15b8d0b3a5acd8a0c07eafc648e32";
+  const MY_ID = import.meta.env.VITE_MY_ID;
+  const MY_KEY = import.meta.env.VITE_MY_KEY;
 
   const [recipes, setRecipes] = useState([]);
   const [search, setSearch] = useState("");
