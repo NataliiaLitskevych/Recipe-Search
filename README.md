@@ -32,8 +32,10 @@ A fast and intuitive recipe search application built with **React**, powered by 
 ## 🚀 Getting Started
 
 ### 1️⃣ Clone repository
+```bash
 git clone <YOUR_REPOSITORY_URL>
 cd recipe-search-app
+```
 
 ### 2️⃣ Install dependencies
 
@@ -42,8 +44,10 @@ npm install
 yarn install
 
 ### 3️⃣ Add API keys (create .env file)
+```env
 REACT_APP_EDAMAM_ID=YOUR_APP_ID
 REACT_APP_EDAMAM_KEY=YOUR_APP_KEY
+```
 
 ### 4️⃣ Run the app
 npm start
